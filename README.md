@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Solidity Contract-Oriented Programming Language
 [![Join the chat at https://gitter.im/ethereum/solidity](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereum/solidity?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/ethereum/solidity.svg?branch=develop)](https://travis-ci.org/ethereum/solidity)
 
@@ -17,3 +18,6 @@ See the [Solidity documentation](https://solidity.readthedocs.io/en/latest/insta
 Please see our [contribution guidelines](https://solidity.readthedocs.io/en/latest/contributing.html) in the Solidity documentation.
 
 Any contributions are welcome!
+=======
+# example
+>>>>>>> 732e610c0bf72506db4537c352b4a172f7ce103a
